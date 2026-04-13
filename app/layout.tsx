@@ -15,9 +15,17 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "Super Simple Marketing | Create a Marketing Message that Works",
+  title: "Super Simple Marketing",
   description:
-    "Clarify your message, build your platform, and grow your business with confidence. Business Made Simple Certified Coaching.",
+    "Ed Oyama and the team at Super Simple Marketing help small businesses clarify their message to attract clients and drive growth.",
+  authors: [{ name: "Ed Oyama" }],
+  openGraph: {
+    title: "Super Simple Marketing",
+    description:
+      "Ed Oyama and the team at Super Simple Marketing help small businesses clarify their message to attract clients and drive growth.",
+    type: "website",
+    images: ["/images/ed-headshot.jpeg"],
+  },
 };
 
 export default function RootLayout({

@@ -5,9 +5,11 @@
   --color-green: #35B238;
   --color-green-hover: #2d9e30;
   --color-orange: #F15C29;
+  --color-red: #e93d3d;
   --color-cream: #F8F6EB;
   --color-light-blue: #F1F9FF;
   --color-white: #ffffff;
+  --color-gray-footer: #595959;
   --font-heading: var(--font-montserrat);
   --font-body: var(--font-lato);
 }
