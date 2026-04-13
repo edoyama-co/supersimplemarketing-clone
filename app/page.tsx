@@ -95,7 +95,7 @@ function Hero() {
             </div>
 
             <h1
-              className="font-heading font-bold text-[33px] md:text-[55px] text-navy leading-[1.3] mb-4"
+              className="font-heading font-bold text-[33px] md:text-[55px] text-white leading-[1.3] mb-4"
               style={{ textShadow: "2px 2px 2px #787878" }}
             >
               Create a Marketing Message that Works.
